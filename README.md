@@ -25,6 +25,8 @@ Sebagai contoh, jika kita memiliki class "Mobil", maka atribut-atributnya mungki
 
 Dengan menggunakan class, kita dapat membuat banyak objek yang memiliki atribut dan perilaku yang sama berdasarkan blueprint yang telah ditentukan. Ini memungkinkan untuk penggunaan kembali kode, abstraksi, dan pemodelan konsep dunia nyata ke dalam program komputer. 
 
+---
+
 ### Tugas
 
 **Implementasikan konsep modularisasi pada kode program pada praktukum sebelumnya dengan menggunakan class library untuk form dan database connection.**
